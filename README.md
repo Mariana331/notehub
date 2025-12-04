@@ -1,4 +1,4 @@
-# 📝 NoteHub — Personal Project (2025)
+# 📝 NoteHub 
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://09-auth-blue-seven.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-NoteHub-181717?style=for-the-badge&logo=github)](https://github.com/Mariana331/notehub)
