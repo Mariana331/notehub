@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📝 NoteHub 
 
-## Getting Started
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://09-auth-blue-seven.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-NoteHub-181717?style=for-the-badge&logo=github)](https://github.com/Mariana331/notehub)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📖 About the Project
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**NoteHub** is a single-page application (SPA) for storing, creating, deleting, and searching notes.  
+It features full authentication with protected routes, user registration, login, and profile management.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Purpose:**  
+- 📝 Manage personal notes: create, edit, delete, search  
+- 🔒 Secure authentication and protected routes  
+- ⚡ Fast, reactive interface with state management and data fetching  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Technologies / Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge)](https://axios-http.com/)  
+[![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge)](https://tanstack.com/query/latest)  
+[![Zustand](https://img.shields.io/badge/Zustand-00BFFF?style=for-the-badge)](https://github.com/pmndrs/zustand)  
+[![CSS Modules](https://img.shields.io/badge/CSS_Modules-1f8dd6?style=for-the-badge)](https://github.com/css-modules/css-modules)  
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge)](https://prettier.io/)  
+[![REST API](https://img.shields.io/badge/REST-API-yellow?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTTP/REST)  
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚀 Features
 
-## Deploy on Vercel
+- 🔒 User authentication: registration, login, and protected routes  
+- 📝 Create, edit, delete, and search notes  
+- ⚡ State management using Zustand  
+- 📡 Data fetching with TanStack Query (React Query)  
+- 🖥 SPA built with Next.js (App Router) for fast, reactive UI  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👩‍💻 Role
+
+- Sole developer  
+- Developed the full authentication system  
+- Implemented global state management and API integration  
+- Built the SPA with responsive UI and secure routes  
+
+---
+
+## 🔗 Live Demo
+
+[🔗 View Live Demo](https://09-auth-blue-seven.vercel.app/)
+
+---
