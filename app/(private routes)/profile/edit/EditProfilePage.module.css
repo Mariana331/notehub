@@ -62,7 +62,7 @@
 }
 
 .input:focus {
-  border-color: #0d6efd;
+  border-color: #53034c;
   outline: none;
 }
 
@@ -75,7 +75,7 @@
   padding: 12px 24px;
   font-size: 18px;
   font-weight: 600;
-  background-color: #0d6efd;
+  background-color: #53034c;
   color: white;
   border: none;
   border-radius: 8px;
@@ -86,7 +86,7 @@
 }
 
 .saveButton:hover {
-  background-color: #0b5ed7;
+  background-color: #53034c;
 }
 
 .cancelButton {
